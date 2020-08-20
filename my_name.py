@@ -1,4 +1,0 @@
-"""
-Name: Ishaque Ahmed
-
-"""
