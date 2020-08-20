@@ -1,8 +1,4 @@
 """
 Name: Ishaque Ahmed
 
-
-
-
-
 """
